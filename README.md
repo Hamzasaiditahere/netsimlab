@@ -18,14 +18,6 @@ Su objetivo es ofrecer una herramienta ligera y accesible para aprender y practi
 - 🧠 Interfaz visual SVG para arrastrar y ubicar elementos fácilmente.
 - 💾 Guardado de topología como archivo JSON (para volver a cargarla más tarde).
 
----
-
-## 📸 Vista previa
-
-> *(Puedes agregar una imagen del simulador en uso cuando quieras aquí)*
-
----
-
 ## 🛠️ Tecnologías usadas
 
 - **React** + **TypeScript**
@@ -43,3 +35,18 @@ Su objetivo es ofrecer una herramienta ligera y accesible para aprender y practi
 ```bash
 git clone https://github.com/Hamzasaiditahere/netsimlab.git
 cd netsimlab
+```
+🌍 Uso libre para cualquiera 
+
+## 📄 Licencia
+
+Este proyecto está bajo la **Licencia Pública General GNU v3.0 (GPL-3.0)**.
+
+Esto significa que:
+- Puedes usar, copiar, modificar y distribuir el proyecto libremente.
+- Si distribuyes una versión modificada, **debes compartirla también bajo GPL**.
+- Debes mantener el nombre del proyecto original **Netsimlab** como parte de la atribución.
+
+🔗 Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
